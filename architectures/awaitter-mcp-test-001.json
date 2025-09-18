@@ -1,0 +1,10 @@
+{
+  "id": "awaitter-mcp-test-001",
+  "name": "Awaitter MCP Test Architecture",
+  "description": "Arquitectura de prueba para integraci�n GitHub MCP",
+  "metadata": {
+    "framework": "React + Node.js + MCP",
+    "created": "2025-09-18T03:48:00Z",
+    "author": "mnovoaq"
+  }
+}
