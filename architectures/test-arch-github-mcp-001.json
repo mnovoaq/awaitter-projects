@@ -1,0 +1,24 @@
+{
+  "id": "test-arch-github-mcp-001",
+  "name": "GitHub MCP Test Architecture",
+  "description": "Testing GitHub integration via MCP",
+  "metadata": {
+    "framework": "React + Node.js",
+    "created": "2025-09-18T03:49:18.678Z",
+    "updated": "2025-09-18T03:49:18.679Z"
+  },
+  "components": [
+    {
+      "id": "frontend",
+      "name": "Frontend",
+      "type": "React",
+      "description": "React frontend application"
+    },
+    {
+      "id": "backend",
+      "name": "Backend API",
+      "type": "Node.js",
+      "description": "Express.js backend API"
+    }
+  ]
+}
